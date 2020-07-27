@@ -303,7 +303,7 @@
 
 	function makeTimer() {
 		//Date of wedding changed
-		var endTime = new Date("29 July 2020 9:56:00 CST+06:00");			
+		var endTime = new Date("29 July 2020 15:56:00 CDT+06:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
